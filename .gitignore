@@ -1,0 +1,8 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Java compiled files
+*.class
+
+Add .gitignore to filter system and compiled files
+
